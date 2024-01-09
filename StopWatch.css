@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#contaner{
+    color: rgb(0, 0, 0);
+    
+}
+#time{
+    text-align: center;
+}
+.dight{
+    font-size: 150px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 25px;
+}
+#btn-counter{
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+}
+.btn{
+    padding: 10px 30px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#start{
+    background-color: rgb(37 174 227);
+
+}
+#stop{
+    background-color: rgb(148 148 215);
+
+}
+#reset{
+    background-color: rgb(216 71 71);
+
+}
